@@ -50,4 +50,4 @@ alert( 'opção inválida' )
 }
 
 - para evitar numeros quebrados usamos a biblioteca Math nativa do Js
-que tem um recurso chamado round que � um recurso que arredonda pra cima ou pra baixa um valor quebrado
+que tem um recurso chamado round que é um recurso que arredonda pra cima ou pra baixa um valor quebrado
